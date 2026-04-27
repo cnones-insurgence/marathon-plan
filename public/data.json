@@ -1,0 +1,333 @@
+{
+  "last_updated": "2026-04-27T19:51:40.689366",
+  "activities": {
+    "2026-02-01": {
+      "date": "2026-02-01",
+      "distance": 8.03,
+      "pace": "6:51",
+      "pace_sec": 412,
+      "duration": 3305,
+      "hr": null,
+      "name": "Evening Run",
+      "strava_id": 17246123340
+    },
+    "2026-02-04": {
+      "date": "2026-02-04",
+      "distance": 5.01,
+      "pace": "6:43",
+      "pace_sec": 403,
+      "duration": 2020,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17280162640
+    },
+    "2026-02-15": {
+      "date": "2026-02-15",
+      "distance": 5.4,
+      "pace": "7:51",
+      "pace_sec": 471,
+      "duration": 2546,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17401441510
+    },
+    "2026-02-22": {
+      "date": "2026-02-22",
+      "distance": 10.05,
+      "pace": "6:34",
+      "pace_sec": 395,
+      "duration": 3969,
+      "hr": null,
+      "name": "Night Run",
+      "strava_id": 17482645924
+    },
+    "2026-02-25": {
+      "date": "2026-02-25",
+      "distance": 8.49,
+      "pace": "6:17",
+      "pace_sec": 378,
+      "duration": 3205,
+      "hr": null,
+      "name": "Lunch Run",
+      "strava_id": 17512990095
+    },
+    "2026-03-01": {
+      "date": "2026-03-01",
+      "distance": 12.03,
+      "pace": "6:39",
+      "pace_sec": 400,
+      "duration": 4808,
+      "hr": null,
+      "name": "Evening Run",
+      "strava_id": 17561168107
+    },
+    "2026-03-09": {
+      "date": "2026-03-09",
+      "distance": 6.18,
+      "pace": "7:54",
+      "pace_sec": 474,
+      "duration": 2931,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17655791103
+    },
+    "2026-03-12": {
+      "date": "2026-03-12",
+      "distance": 5.01,
+      "pace": "6:26",
+      "pace_sec": 387,
+      "duration": 1937,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17693878742
+    },
+    "2026-03-13": {
+      "date": "2026-03-13",
+      "distance": 5.04,
+      "pace": "6:53",
+      "pace_sec": 413,
+      "duration": 2083,
+      "hr": null,
+      "name": "Morning Run",
+      "strava_id": 17702313433
+    },
+    "2026-03-18": {
+      "date": "2026-03-18",
+      "distance": 5.99,
+      "pace": "6:07",
+      "pace_sec": 368,
+      "duration": 2202,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17762414116
+    },
+    "2026-03-25": {
+      "date": "2026-03-25",
+      "distance": 4.16,
+      "pace": "6:56",
+      "pace_sec": 417,
+      "duration": 1734,
+      "hr": null,
+      "name": "Morning Run",
+      "strava_id": 17846348782
+    },
+    "2026-03-29": {
+      "date": "2026-03-29",
+      "distance": 4.75,
+      "pace": "7:29",
+      "pace_sec": 450,
+      "duration": 2137,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17896081902
+    },
+    "2026-03-31": {
+      "date": "2026-03-31",
+      "distance": 6.51,
+      "pace": "5:52",
+      "pace_sec": 352,
+      "duration": 2293,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17921115031
+    },
+    "2026-04-02": {
+      "date": "2026-04-02",
+      "distance": 8.02,
+      "pace": "5:36",
+      "pace_sec": 336,
+      "duration": 2698,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 17946602896
+    },
+    "2026-04-05": {
+      "date": "2026-04-05",
+      "distance": 10.03,
+      "pace": "5:55",
+      "pace_sec": 356,
+      "duration": 3566,
+      "hr": 145,
+      "name": "1k Activities?",
+      "strava_id": 17983421251
+    },
+    "2026-04-08": {
+      "date": "2026-04-08",
+      "distance": 3.6,
+      "pace": "5:49",
+      "pace_sec": 349,
+      "duration": 1257,
+      "hr": null,
+      "name": "Afternoon Run",
+      "strava_id": 18023002504
+    },
+    "2026-04-12": {
+      "date": "2026-04-12",
+      "distance": 19.12,
+      "pace": "6:22",
+      "pace_sec": 382,
+      "duration": 7309,
+      "hr": 140,
+      "name": "Afternoon Run",
+      "strava_id": 18074933683
+    },
+    "2026-04-14": {
+      "date": "2026-04-14",
+      "distance": 4.03,
+      "pace": "6:47",
+      "pace_sec": 407,
+      "duration": 1642,
+      "hr": 129,
+      "name": "Morning Run",
+      "strava_id": 18096668287
+    },
+    "2026-04-16": {
+      "date": "2026-04-16",
+      "distance": 5.18,
+      "pace": "5:53",
+      "pace_sec": 353,
+      "duration": 1831,
+      "hr": 135,
+      "name": "Lunch Run",
+      "strava_id": 18127010552
+    },
+    "2026-04-18": {
+      "date": "2026-04-18",
+      "distance": 5.09,
+      "pace": "6:16",
+      "pace_sec": 377,
+      "duration": 1917,
+      "hr": 135,
+      "name": "Afternoon Run",
+      "strava_id": 18153453767
+    },
+    "2026-04-19": {
+      "date": "2026-04-19",
+      "distance": 14.93,
+      "pace": "6:13",
+      "pace_sec": 374,
+      "duration": 5582,
+      "hr": 132,
+      "name": "Morning Run",
+      "strava_id": 18165035645
+    },
+    "2026-04-21": {
+      "date": "2026-04-21",
+      "distance": 5.14,
+      "pace": "6:16",
+      "pace_sec": 376,
+      "duration": 1933,
+      "hr": 136,
+      "name": "Lunch Run",
+      "strava_id": 18191930549
+    },
+    "2026-04-23": {
+      "date": "2026-04-23",
+      "distance": 5.16,
+      "pace": "5:57",
+      "pace_sec": 357,
+      "duration": 1844,
+      "hr": 140,
+      "name": "Morning Run",
+      "strava_id": 18218527096
+    },
+    "2026-04-25": {
+      "date": "2026-04-25",
+      "distance": 5.03,
+      "pace": "6:11",
+      "pace_sec": 372,
+      "duration": 1871,
+      "hr": 134,
+      "name": "Morning Run",
+      "strava_id": 18244491063
+    },
+    "2026-04-26": {
+      "date": "2026-04-26",
+      "distance": 16.07,
+      "pace": "6:00",
+      "pace_sec": 360,
+      "duration": 5788,
+      "hr": 144,
+      "name": "Morning Run",
+      "strava_id": 18259092462
+    }
+  },
+  "garmin": {
+    "2026-04-27": {
+      "body_battery_high": 98,
+      "body_battery_low": 23,
+      "rhr": 47,
+      "hrv": null,
+      "hrv_weekly_avg": 66,
+      "sleep_hours": 9.0,
+      "sleep_score": 81
+    }
+  },
+  "week_summary": {
+    "-10": {
+      "runs": 1,
+      "total_km": 8.03,
+      "long_run_km": 8.03
+    },
+    "-9": {
+      "runs": 1,
+      "total_km": 5.01,
+      "long_run_km": 5.01
+    },
+    "-8": {
+      "runs": 1,
+      "total_km": 5.4,
+      "long_run_km": 5.4
+    },
+    "-7": {
+      "runs": 1,
+      "total_km": 10.05,
+      "long_run_km": 10.05
+    },
+    "-6": {
+      "runs": 2,
+      "total_km": 20.52,
+      "long_run_km": 12.03
+    },
+    "-5": {
+      "runs": 1,
+      "total_km": 6.18,
+      "long_run_km": 6.18
+    },
+    "-4": {
+      "runs": 2,
+      "total_km": 10.05,
+      "long_run_km": 5.04
+    },
+    "-3": {
+      "runs": 1,
+      "total_km": 5.99,
+      "long_run_km": 5.99
+    },
+    "-2": {
+      "runs": 2,
+      "total_km": 8.91,
+      "long_run_km": 4.75
+    },
+    "-1": {
+      "runs": 3,
+      "total_km": 24.56,
+      "long_run_km": 10.03
+    },
+    "0": {
+      "runs": 2,
+      "total_km": 22.72,
+      "long_run_km": 19.12
+    },
+    "1": {
+      "runs": 4,
+      "total_km": 29.23,
+      "long_run_km": 14.93
+    },
+    "2": {
+      "runs": 4,
+      "total_km": 31.4,
+      "long_run_km": 16.07
+    }
+  }
+}
