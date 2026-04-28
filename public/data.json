@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T19:51:40.689366",
+  "last_updated": "2026-04-28T11:00:19.190415",
   "activities": {
     "2026-02-01": {
       "date": "2026-02-01",
@@ -250,10 +250,20 @@
       "hr": 144,
       "name": "Morning Run",
       "strava_id": 18259092462
+    },
+    "2026-04-28": {
+      "date": "2026-04-28",
+      "distance": 5.05,
+      "pace": "6:29",
+      "pace_sec": 390,
+      "duration": 1968,
+      "hr": 129,
+      "name": "Morning Run",
+      "strava_id": 18284039189
     }
   },
   "garmin": {
-    "2026-04-27": {
+    "2026-04-28": {
       "body_battery_high": 98,
       "body_battery_low": 23,
       "rhr": 47,
@@ -328,6 +338,11 @@
       "runs": 4,
       "total_km": 31.4,
       "long_run_km": 16.07
+    },
+    "3": {
+      "runs": 1,
+      "total_km": 5.05,
+      "long_run_km": 5.05
     }
   }
 }
